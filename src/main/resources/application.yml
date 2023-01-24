@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: openreserve
+netty:
+  default:
+    allocator:
+      max-order: 3
